@@ -3,3 +3,15 @@ chardet==3.0.4
 idna==2.6
 requests==2.18.4
 urllib3==1.22
+future>=0.16.0
+certifi
+flake8
+pep257
+pylint
+flaky
+yapf
+pre-commit
+beautifulsoup4
+pytest
+pytest-timeout
+python-telegram-bot
